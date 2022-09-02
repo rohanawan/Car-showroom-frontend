@@ -1,0 +1,72 @@
+body{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+body, html {
+    height: 100%;
+    background-color: #2d2c2c;
+}
+.form-bg{
+    background-color: #18171785;
+}
+.form-table{
+    background-color: #181717b9;
+}
+.reg-btn{
+    width: 100%;
+}
+.checkbox {
+    width: 14px; 
+    height: 14px;
+}
+.form-mid{
+   height: 100vh;
+}
+.alertPopup{
+    position: absolute !important;
+    width: 25% !important;
+}
+.drop-down{ 
+    border-color: lightgrey;
+}
+.btn{
+    margin: 0px 5px 0px 0px;
+}
+.search{
+    font-size: 22px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+.loading{
+    font-size: 24px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+
+.login-hero-section{ 
+    background-image: url("./assets/loginHero.png");
+    background-size: cover;
+    color: black;
+    background-position: center center;
+    background-attachment: fixed;
+    border-radius: 2px;
+    height: 100vh;
+}
+.home-hero-section{ 
+    background-image: url("./assets/registration.png");
+    background-size: cover;
+    color: black;
+    background-position: center center;
+    background-attachment: fixed;
+    border-radius: 2px;
+    height: 100vh;
+}
+.white{
+    color: rgba(255, 255, 255, 0.87);
+}
+.table-white{
+    color: rgba(255, 255, 255, 0.966);
+}
+.pd{
+    padding-left: 90px;
+}
